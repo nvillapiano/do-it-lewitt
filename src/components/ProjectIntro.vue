@@ -113,6 +113,7 @@ export default {
           background-image: linear-gradient(rgba($black, 0), $black);
           opacity: 0;
           transition: opacity 0.3s;
+          pointer-events: none;
         }
       }
 
